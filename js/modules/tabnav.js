@@ -24,5 +24,6 @@ export default class initTabNav {
       this.showContentTab(0);
       this.addEventInit();
     }
+    return this;
   }
 }
