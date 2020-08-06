@@ -335,3 +335,7 @@ body {
   font-weight: bold;
   border-radius: 2px;
 }
+
+.mapa {
+  position: relative;
+}
